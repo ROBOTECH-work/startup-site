@@ -1,4 +1,3 @@
 # STARTUP SITE
  startup site
- 
-https://simokamaawork.github.io/startup-site/
+ https://robotech-work.github.io/startup-site/
